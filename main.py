@@ -9,7 +9,7 @@ import os
 import sys
 from numba import njit
 
-# --- PATH HANDLER FOR EXE ---
+# --- PATH HANDLERS FOR EXE ---
 def resource_path(relative_path):
     try:
         base_path = sys._MEIPASS
