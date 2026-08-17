@@ -15,7 +15,7 @@ Support the project! Give it a ⭐ if you find it useful.
 [![Star on GitHub](https://img.shields.io/github/stars/yan4ikxxx-wq/numbacorevision?style=social)](https://github.com/yan4ikxxx-wq/numbacorevision)
 ---
 
-## Особенности (RU) 🇷🇺
+## Особенности 🇷🇺
 - **Плавность движения:** Физика курсора просчитывается через **Numba (@njit)**, что исключает задержки (input lag).
 - **Адаптивное зрение:** Использование фильтра **CLAHE** и алгоритма **OTSU** позволяет системе видеть руку даже при плохом освещении.
 - **Динамическая калибровка:** Система автоматически подстраивает чувствительность при смене режимов.
